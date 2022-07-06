@@ -1,1 +1,1 @@
-Main File
+function that prints the alphabet, in lowercase
